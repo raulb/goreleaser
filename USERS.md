@@ -26,6 +26,7 @@ Here's a running list of some organizations using GoReleaser[^1]:
 1. [Hugo](https://gohugo.io)
 1. [IRON Security](https://iron.security)
 1. [Koordinator](https://koordinator.sh)
+1. [Meroxa](https://meroxa.com/)
 1. [Microsoft](https://microsoft.com)
 1. [Minio](https://min.io)
 1. [Ministry of Justice (UK)](https://mojdigital.blog.gov.uk)
@@ -41,6 +42,7 @@ Here's a running list of some organizations using GoReleaser[^1]:
 1. [Sysdig](https://sysdig.com)
 1. [TOTVS Labs](https://totvslabs.com)
 1. [Trybe](https://betrybe.com)
+
 
 Feel free to [add yours](https://github.com/goreleaser/goreleaser/edit/main/USERS.md)!
 
